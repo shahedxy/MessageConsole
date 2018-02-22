@@ -1,0 +1,9 @@
+F:\Project Files\MessageConsole\MessageConsole\bin\Debug\MessageConsole.exe
+F:\Project Files\MessageConsole\MessageConsole\bin\Debug\MessageConsole.pdb
+F:\Project Files\MessageConsole\MessageConsole\obj\Debug\MessageConsole.csprojResolveAssemblyReference.cache
+F:\Project Files\MessageConsole\MessageConsole\obj\Debug\MessageConsole.FormMain.resources
+F:\Project Files\MessageConsole\MessageConsole\obj\Debug\MessageConsole.Properties.Resources.resources
+F:\Project Files\MessageConsole\MessageConsole\obj\Debug\MessageConsole.csproj.GenerateResource.Cache
+F:\Project Files\MessageConsole\MessageConsole\obj\Debug\MessageConsole.exe
+F:\Project Files\MessageConsole\MessageConsole\obj\Debug\MessageConsole.pdb
+F:\Project Files\MessageConsole\MessageConsole\obj\Debug\MessageConsole.FormSendMessage.resources
